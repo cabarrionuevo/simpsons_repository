@@ -12,6 +12,8 @@ Homero es amigo de barney y toman cerveza juntos
 Suele ir a comprar al mercado de Apu
 
 Esta casado con Marge y tienen 3 hijos, Bart, Liza y Maggie.
+
+Es vecino de Flanders
 __
 
 ![imagen-homero-simpson](https://static.wikia.nocookie.net/lossimpson/images/b/bd/Homer_Simpson.png/revision/latest/scale-to-width-down/200?cb=20100522180809&path-prefix=es)
